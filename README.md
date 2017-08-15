@@ -5,16 +5,16 @@ Emmet (前身为 Zen Coding) 是一个能大幅度提高前端开发效率的一
 - 后代：>
 
     缩写：nav>ul>li*5
-
-    <nav>
-        <ul>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-        </ul>
-    </nav>
+    
+        <nav>
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>
+        </nav>
 
 - 兄弟: +
 
